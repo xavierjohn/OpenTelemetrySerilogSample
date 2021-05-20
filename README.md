@@ -1,2 +1,3 @@
-# OpenTelemetrySerilogSample
-Sample code: Use ILogger OpenTelemetry provider with Serilog
+# Open Telemetry Serilog Sample
+
+The logs from Serilog are not getting logged.
